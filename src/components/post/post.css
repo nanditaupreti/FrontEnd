@@ -17,17 +17,21 @@
 .postTopleft{
     display: flex;
     align-items:center;
+ 
 }
 .postProfileImg{
     height:32px;
     width:32px;
+   
     border-radius:50%;
     object-fit:cover;
+    
 }
 .postUsername{
     font-size : 15px;
     font-weight : 500;
-    margin : 0 10px;
+    margin : 0px 10px;
+    
   
 }
 .postDate{

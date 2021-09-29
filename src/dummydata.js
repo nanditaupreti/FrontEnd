@@ -3,22 +3,22 @@
 export const Users = [
     {
       id:1,
-      profilePicture: "assets/person/1.jpeg",
+      profilePicture: "assets/person/nanditadp.jpg",
       username: "Nandita Upreti",
     },
     {
       id:2,
-      profilePicture: "assets/person/2.jpeg",
+      profilePicture: "assets/person/onkardp.jpg",
       username: "Onkar Manuja",
     },
     {
       id:3,
-      profilePicture: "assets/person/3.jpeg",
+      profilePicture: "assets/person/hritikdp.jpg",
       username: "Hritik kesharwani",
     },
     {
       id:4,
-      profilePicture: "assets/person/4.jpeg",
+      profilePicture: "assets/person/rajatdp.jpg",
       username: "Rajat Gupta",
     },
     {

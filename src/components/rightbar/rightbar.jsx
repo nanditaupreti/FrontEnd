@@ -40,46 +40,42 @@ return (
     </div>
     <div className = "rightbarInfoItem">
     <span className= "rightbarInfoKey">Relationship</span> 
-    <span className= "rightbarInfoValue">Its complicated</span> 
+    <span className= "rightbarInfoValue">Single</span> 
     </div>
     </div>
     <h4 className="rightbarTitle">User Friends</h4>
     <div className="rightbarFollowings">
         <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/1.jpeg" alt="uploading"></img>
+            <img className="rightbarFollowingImg" src="assets/person/onkardp.jpg" alt="uploading"></img>
             <span className = "rightbarFollowingName"> Onkar </span>
         </div>
         <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/2.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <img className="rightbarFollowingImg" src="assets/person/rajatdp.jpg" alt="uploading"></img>
+            <span className = "rightbarFollowingName"> Rajat </span>
         </div>
         <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/3.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
-        </div>
-        <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/4.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <img className="rightbarFollowingImg" src="assets/person/hritikdp.jpg" alt="uploading"></img>
+            <span className = "rightbarFollowingName"> Hritik </span>
         </div>
         <div className="rightbarFollowing">
             <img className="rightbarFollowingImg" src="assets/person/5.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <span className = "rightbarFollowingName"> Angel Priya  </span>
         </div>
         <div className="rightbarFollowing">
             <img className="rightbarFollowingImg" src="assets/person/6.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <span className = "rightbarFollowingName"> Ramesh </span>
         </div>
         <div className="rightbarFollowing">
             <img className="rightbarFollowingImg" src="assets/person/7.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <span className = "rightbarFollowingName"> Modi ji </span>
         </div>
         <div className="rightbarFollowing">
             <img className="rightbarFollowingImg" src="assets/person/8.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <span className = "rightbarFollowingName"> Rajjo </span>
         </div>
         <div className="rightbarFollowing">
             <img className="rightbarFollowingImg" src="assets/person/9.jpeg" alt="uploading"></img>
-            <span className = "rightbarFollowingName"> Onkar </span>
+            <span className = "rightbarFollowingName"> Sharukh khan </span>
         </div>
     </div>
 

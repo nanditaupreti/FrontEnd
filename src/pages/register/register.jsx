@@ -7,6 +7,9 @@ export default function Register() {
             <div className="loginleft">
                 <h3 className="loginLogo">ChillZone</h3>
                 <span className="loginDesc">Connect with your friends here</span>
+                <div className = "LogoImgInfo" >
+                <img src = "assets/logo.jpeg" className = "LogoImg" alt="loading" ></img>
+                </div>
             </div>
             <div className="loginRight">
                 <div className="loginBox">

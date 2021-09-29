@@ -16,11 +16,11 @@ export default function profile() {
           <div className = "profileRightTop"> 
           <div className = "profileCover"> 
 <img className= "profileCoverImg" src = "assets/post/3.jpeg"  alt=" "></img>
-<img className= "profileUserImg"  src = "assets/person/5.jpeg"  alt=" "></img>
+<img className= "profileUserImg"  src = "assets/person/nanditadp.jpg"  alt=" "></img>
           </div>
           <div className = "profileInfo"> 
-          <h4 className= "profileInfoName">Nandita</h4>
-          <span className= "profileInfoDesc">Hello friends chai p lo</span>
+          <h4 className= "profileInfoName">Nandita Upreti</h4>
+          <span className= "profileInfoDesc">Nature Lover ❤</span>
           </div>
           </div>
           <div className = "profileRightBottom"> 

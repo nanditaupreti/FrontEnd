@@ -18,15 +18,18 @@ export default function Post({post}) {
                    <div className="postTopLeft">
                        <img className="postProfileImg" 
                        src={Users.filter((u)=>u.id===post.userId)[0].profilePicture} 
-                        alt="">
-
-                       </img>
+                       alt="" />
+                      
+                       
+                     
                        <span className = "postUsername">
                        {Users.filter((u)=>u.id===post.userId)[0].username} 
                        </span>
+                       
                        <span className = "postDate">{post.date}</span>
-                   </div>
+                       </div> 
                    <div className="postTopRight">  <MoreVert/>
+                 
                    </div>
                  
                </div>
